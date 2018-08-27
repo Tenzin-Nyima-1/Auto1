@@ -8,14 +8,12 @@
 1. Question 1 (10 Points)
 2. Question 2 (10 Points)
 3. Question 3 (20 Points)
-
-I. Data Handling
-II. Exploratory Analysis
-III. Fitting Models
-IV. Model Comparison
-V. Variable Importance
-VI. Save Workspace
-
+ -I. Data Handling
+ -II. Exploratory Analysis
+ -III. Fitting Models
+ -IV. Model Comparison
+ -V. Variable Importance
+ -VI. Save Workspace
 4. Question 4 (60 Points)
 
 
