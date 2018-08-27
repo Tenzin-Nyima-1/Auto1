@@ -7,15 +7,9 @@
 **Workflow** (main steps): the analysis was performed using the [R](https://cran.r-project.org/) version 3.5.0 (2018-04-23):
 1. Question 1 (10 Points)
 2. Question 2 (10 Points)
-3. Question 3 (20 Points)
- -I. Data Handling
- -II. Exploratory Analysis
- -III. Fitting Models
- -IV. Model Comparison
- -V. Variable Importance
- -VI. Save Workspace
+3. Question 3 (20 Points): I. Data Handling; II. Exploratory Analysis; III. Fitting Models; IV. Model Comparison; V. Variable Importance;
+VI. Save Workspace.
 4. Question 4 (60 Points)
-
 
 **Used the following R packages:**
 * [caret](https://cran.r-project.org/web/packages/caret/index.html)
